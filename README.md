@@ -1,2 +1,2 @@
 # hello-world
-beginner exercies with github
+some exercises
